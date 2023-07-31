@@ -24,4 +24,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryan18b&show_icons=true&locale=en&layout=compact" alt="aryan18b" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryan18b&" alt="aryan18b" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryan18b&show_icons=true&locale=en&layout=compact" alt="aryan18b" /></p>
 
