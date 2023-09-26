@@ -2,11 +2,11 @@
 <h3 align="center">A passionate frontend developer with expertise in JavaScript, and React. 💻</h3>
 
 - 🌱 Currently, I'm diving deeper into **Backend Development with Node.js**
-
-- 💻I also love to solve DSA probems.
-- 
+  
 - 👨‍💻 All of my projects are available [here](https://github.com/aryan18b)
 
+- 💻I also love to solve DSA probems.
+  
 - 📫 How to reach me **aryanbhavsar95@gmail.com**
 
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1K9zHfjKFK4xgkXn56esYkSK0IBn1DQcw/view?usp=drive_link)
